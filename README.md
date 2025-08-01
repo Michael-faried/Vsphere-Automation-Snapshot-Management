@@ -40,3 +40,5 @@ git clone https://github.com/your-username/vsphere-snapshot-tool.git
 cd vsphere-snapshot-tool
 pip install -r requirements.txt
 python main.py
+
+![Architecture Diagram](Perm.png)
