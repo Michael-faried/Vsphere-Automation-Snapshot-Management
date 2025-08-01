@@ -40,5 +40,3 @@ git clone https://github.com/your-username/vsphere-snapshot-tool.git
 cd vsphere-snapshot-tool
 pip install -r requirements.txt
 python main.py
-
-<img width="823" height="347" alt="image" src="https://github.com/user-attachments/assets/f01cf7d2-eb1e-4d1f-a922-657a17de9ae1" />
