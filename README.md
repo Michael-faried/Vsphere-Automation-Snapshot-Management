@@ -33,6 +33,7 @@ A remote Python-based GUI tool for managing VMware vSphere snapshots and virtual
 - VMware vCenter credentials with read/write permissions
 - Access to a vSphere environment
 
+![Architecture Diagram](Architecture.png)
 ![Architecture Diagram](Perm.png)
 
 ### Installation
